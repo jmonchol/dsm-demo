@@ -1,0 +1,7 @@
+{
+  "authToken": "Hy6r55YXr",
+  "dsmHost": "ideanspain.invisionapp.com",
+  "organization": "idean-spain",
+  "outputDir": ".dsm",
+  "storyPath": "src/stories/**/*.{js,ts}"
+}
