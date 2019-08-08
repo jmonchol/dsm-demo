@@ -28,7 +28,7 @@ storiesOf('Button', module)
     }),
     {
       'in-dsm': {
-        id: '5cf53658fbb8682a3246d907',
+        id: '5d4b0e5e5458ed3b36f6e1d5',
         versionFilePath: '../app/components/button/versionFile.json',
         componentPath: '../app/components/button/button.component'
       }
